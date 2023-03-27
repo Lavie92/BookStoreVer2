@@ -1,0 +1,264 @@
+D:\Web\BookStoreVer2\BookStoreVer2\bin\BookStoreVer2.dll.config
+D:\Web\BookStoreVer2\BookStoreVer2\bin\BookStoreVer2.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\BookStoreVer2.pdb
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csc.exe
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csc.exe.config
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csc.rsp
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csi.exe
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csi.exe.config
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\csi.rsp
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.AppContext.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Collections.Immutable.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Console.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.IO.Compression.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.IO.FileSystem.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Net.Http.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Net.Sockets.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.ValueTuple.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Xml.XPath.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\vbc.exe
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\vbc.exe.config
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\vbc.rsp
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\VBCSCompiler.exe
+D:\Web\BookStoreVer2\BookStoreVer2\bin\roslyn\VBCSCompiler.exe.config
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Antlr3.Runtime.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\EntityFramework.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\EntityFramework.SqlServer.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Google.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Newtonsoft.Json.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Owin.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Net.Http.Formatting.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Helpers.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Http.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Http.WebHost.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Mvc.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Optimization.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Razor.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.Deployment.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.Razor.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\WebGrease.dll
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Helpers.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Mvc.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Optimization.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Razor.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.Deployment.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.WebPages.Razor.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Newtonsoft.Json.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Antlr3.Runtime.pdb
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Net.Http.Formatting.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Http.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\System.Web.Http.WebHost.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\EntityFramework.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\EntityFramework.SqlServer.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Google.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web\BookStoreVer2\BookStoreVer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web\BookStoreVer2\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.AssemblyReference.cache
+D:\Web\BookStoreVer2\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.CoreCompileInputs.cache
+D:\Web\BookStoreVer2\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.CopyComplete
+D:\Web\BookStoreVer2\BookStoreVer2\obj\Debug\BookStoreVer2.dll
+D:\Web\BookStoreVer2\BookStoreVer2\obj\Debug\BookStoreVer2.pdb
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\BookStoreVer2.dll.config
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\BookStoreVer2.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\BookStoreVer2.pdb
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csc.exe
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csc.exe.config
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csc.rsp
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csi.exe
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csi.exe.config
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\csi.rsp
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.AppContext.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Console.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.IO.Compression.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Net.Http.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Net.Sockets.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.ValueTuple.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Xml.XPath.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\vbc.exe
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\vbc.exe.config
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\vbc.rsp
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\VBCSCompiler.exe
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Antlr3.Runtime.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\EntityFramework.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\EntityFramework.SqlServer.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Newtonsoft.Json.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Owin.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\PagedList.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\PagedList.Mvc.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Net.Http.Formatting.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Helpers.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Http.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Http.WebHost.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Mvc.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Optimization.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Razor.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.Deployment.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.Razor.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\WebGrease.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\PagedList.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\PagedList.Mvc.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Helpers.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Mvc.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Optimization.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Razor.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.Deployment.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.WebPages.Razor.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Newtonsoft.Json.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Antlr3.Runtime.pdb
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Net.Http.Formatting.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Http.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Web.Http.WebHost.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\EntityFramework.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\EntityFramework.SqlServer.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.AssemblyReference.cache
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.CoreCompileInputs.cache
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.CopyComplete
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.pdb
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\AdvancedStringBuilder.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\BundleTransformer.Core.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\DartSassHost.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\JavaScriptEngineSwitcher.Core.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Buffers.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Memory.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Numerics.Vectors.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Text.Encodings.Web.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Text.Json.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Threading.Tasks.Extensions.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.ValueTuple.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\AdvancedStringBuilder.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\BundleTransformer.Core.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\DartSassHost.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\JavaScriptEngineSwitcher.Core.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Buffers.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Memory.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Numerics.Vectors.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Text.Encodings.Web.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Text.Json.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.Threading.Tasks.Extensions.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\System.ValueTuple.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\ru-ru\BundleTransformer.Core.resources.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\NLog.dll
+D:\ASP .NET MVC\BookStore\BookStoreVer2\bin\NLog.xml
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.Resource.resources
+D:\ASP .NET MVC\BookStore\BookStoreVer2\obj\Debug\BookStoreVer2.csproj.GenerateResource.cache

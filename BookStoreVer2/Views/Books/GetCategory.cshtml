@@ -1,0 +1,8 @@
+﻿@model IEnumerable<BookStoreVer2.Models.Category>
+<ul>
+    @foreach (var item in Model)
+    {
+
+        <li>@Html.ActionLink(item.CategoryName + "(" + item.BookCount.ToString() + ")", "GetBookByCategory/" + item.CategoryId, "Books")</li>
+    }
+</ul>
